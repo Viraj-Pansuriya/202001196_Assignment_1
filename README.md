@@ -1,15 +1,15 @@
 
 
-#Name : Pansuriya Viraj Dhirajbhai
-#Id : 202001196
-#Date : 02/02/2023
+# Name : Pansuriya Viraj Dhirajbhai
+# Id : 202001196
+# Date : 02/02/2023
 
-Answer-1: 
+## Answer-1: 
 
-Functional Requirments:
+### Functional Requirments:
 
--> People , who are assigned to projects should have access to system. 
--> If new people are joining to project , there should be register option and after validation of their Id and another required documents , provide access.
+* People , who are assigned to projects should have access to system. 
+* If new people are joining to project , there should be register option and after validation of their Id and another required documents , provide access.
 -> Create a different section for Student , Staff , Faculty.
 -> System should authenticates valid users ( such as students and employees ) , after that only they access.
 -> Any people on internet(LIS member / non- member) can search about books that are available in library , can sort according to release date of book , price of book, 
