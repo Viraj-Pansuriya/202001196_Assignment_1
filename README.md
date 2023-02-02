@@ -32,7 +32,7 @@
 * System should be responsive for any size / type of screen.
 * System should not crash or hand due to high traffic.
 * Database updation should be real time such that currently borrowed book should not be shown in available book list.
-* System should be maintainable such , it should not be outdated quickly and it is easy to do modification. 
+* System should be maintainable such that, it should not be outdated quickly and it is easy to do modification. 
 
 
 ## **<pre>                                   Answer-2  </pre>**
@@ -43,10 +43,27 @@
 * This Application will help those people by alerting them using vibration in different kind of critical situation. 
 * This Application will use Artifical intelligence to detect different kind of sound and alert user.
 * This Application will give freedom to this kind of people such that they can move around. 
+* Latency of system should be less such that it can become real time.
+
 
 ### Features:
 
-* 
+* Application should use Artificial Intelligence to detect sound.
+* User can choose different kind of vibration for each kind of critical situation.
+* System should keep track of live location and there should be contact details of family member of user , such that in extreme critical situation it shares live location to given contacts.
+* System should take response from user such that , system can stop vibration. 
+* System should run in background also. 
+* It should provide path where traffic is less , such user will be more relax to walk from there.
+* System should consume less battery.
+
+### Non-Functional Requirments:
+
+* Algorithm on which system is running should be more accurate.
+* Error should be as minimum as possible.
+* Contact number of user's family and live location of user should not be leaked anyway and no one can trace user.
+* System should be scalable , such that due to increasing userbase there should not be any kind of problem in updation of system. 
+
+
 
 
 
