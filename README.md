@@ -37,9 +37,18 @@
 
 ## **<pre>                                   Answer-2  </pre>**
 
-### Functional Requirments:
+### Scope:
+
+* There are 466 million people in this earth and from them around Approximately 5% people are suffing from disabling hearing loss.
+* This Application will help those people by alerting them using vibration in different kind of critical situation. 
+* This Application will use Artifical intelligence to detect different kind of sound and alert user.
+* This Application will give freedom to this kind of people such that they can move around. 
+
+### Features:
 
 * 
+
+
 
 
 
